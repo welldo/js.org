@@ -1108,6 +1108,7 @@ var cnames_active = {
   "exp": "magicops.github.io/JQuery-expression-builder",
   "expass": "expass.github.io/expass",
   "express-kun": "hanipcode.github.io/express-kun",
+  "express-route-cache": "code-y02.github.io/express-route-cache",
   "expressad": "flweber.github.io/express-ad-basicauth",
   "expressdynamichelpers": "marvnet.github.io/express-dynamic-helpers-patch",
   "exprtk": "mmomtchev.github.io/exprtk.js",
@@ -1289,6 +1290,7 @@ var cnames_active = {
   "get": "get-js-org.dns.huangxin.org", // noCF
   "getdot": "enderandfiredev.github.io/getdot",
   "getlink": "ilovecode1.github.io/linkjs", // noCF? (don´t add this in a new PR)
+  "gettic": "darking053official.github.io/gettic",
   "ghapi": "haydennyyy.github.io/node-ghapi",
   "ghastly": "hkwu.github.io/ghastly",
   "ghost-shell": "andreyantipov.github.io/ghost-shell",
@@ -2842,6 +2844,7 @@ var cnames_active = {
   "risingstars": "cname.vercel-dns.com", // noCF
   "risingstars2016": "michaelrambeau.github.io/risingstars2016",
   "ritchie": "amukh1.github.io/Ritchie",
+  "riyal": "pooyagolchian.github.io/riyal",
   "rize": "g-plane.github.io/rize",
   "rmodal": "zewish.github.io/rmodal.js",
   "rn-material": "cname.vercel-dns.com", // noCF
@@ -3245,6 +3248,7 @@ var cnames_active = {
   "suroadb": "nicamoq.github.io/SuroADB-Lite",
   "surrealorm": "surrealorm.justwolf.dev", // noCF
   "surti": "cname.vercel-dns.com", // noCF
+  "susee": "cname.vercel-dns.com", // noCF
   "svelkit": "kenoxa.github.io/svelkit",
   "svelte-aplayer": "fengkx.github.io/svelte-aplayer",
   "svelte-cookie-consent": "sebaofficial.github.io/svelte-cookie-consent",
